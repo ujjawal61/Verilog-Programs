@@ -1,0 +1,8 @@
+
+State Machine - |sequence_detector_fsm|cur_state
+Name cur_state.S110 cur_state.S11 cur_state.S1 cur_state.IDLE cur_state.S1100 
+cur_state.IDLE 0 0 0 0 0 
+cur_state.S1 0 0 1 1 0 
+cur_state.S11 0 1 0 1 0 
+cur_state.S110 1 0 0 1 0 
+cur_state.S1100 0 0 0 1 1 

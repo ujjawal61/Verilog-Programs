@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ujjawal Aggarwal/Desktop/4_Bit_Comparator/simulation/qsim
+vFour_Bit_Comparator
+Z1 !s110 1603213168
+!i10b 1
+!s100 ]UDOzg2PaA[^cHa2PSW8J1
+I4L5=73jEeadN8j7YLm:dX1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1603213167
+Z4 8Four_Bit_Comparator.vo
+Z5 FFour_Bit_Comparator.vo
+Z6 L0 32
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1603213168.000000
+Z9 !s107 Four_Bit_Comparator.vo|
+Z10 !s90 -work|work|Four_Bit_Comparator.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@four_@bit_@comparator
+vFour_Bit_Comparator_vlg_vec_tst
+R1
+!i10b 1
+!s100 i4JUC^S<R?OPNT_;hYZGU0
+ILEIQ]IoUBUY59S[d5`E5g1
+R2
+R0
+R3
+8Waveform3.vwf.vt
+FWaveform3.vwf.vt
+Z13 L0 30
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform3.vwf.vt|
+!s90 -work|work|Waveform3.vwf.vt|
+!i113 1
+R11
+R12
+n@four_@bit_@comparator_vlg_vec_tst
+vhard_block
+Z14 !s110 1603557177
+!i10b 1
+!s100 @n>CJfN?VUOM<6H@bcABB2
+Ie9V[;2d1RXY]THBL`dB2;1
+R2
+R0
+Z15 w1603557177
+R4
+R5
+L0 224
+R7
+r1
+!s85 0
+31
+Z16 !s108 1603557177.000000
+R9
+R10
+!i113 1
+R11
+R12
+vTwo_Bit_Comparator
+R14
+!i10b 1
+!s100 diHBQ7EHSSP=1CO_RShFB2
+IC:3c4=mODMA:7Qg>ZE2BC3
+R2
+R0
+R15
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+R16
+R9
+R10
+!i113 1
+R11
+R12
+n@two_@bit_@comparator
+vTwo_Bit_Comparator_vlg_vec_tst
+R14
+!i10b 1
+!s100 E<7b3cf;bTSo24aa;aAQO3
+Ih9IJAAja19NE@SOiX`f6Q0
+R2
+R0
+w1603557176
+8Waveform5.vwf.vt
+FWaveform5.vwf.vt
+R13
+R7
+r1
+!s85 0
+31
+R16
+!s107 Waveform5.vwf.vt|
+!s90 -work|work|Waveform5.vwf.vt|
+!i113 1
+R11
+R12
+n@two_@bit_@comparator_vlg_vec_tst

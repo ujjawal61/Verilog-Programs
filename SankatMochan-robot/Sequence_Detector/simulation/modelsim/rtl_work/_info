@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/simulation/modelsim
+vsequence_detector_fsm
+Z1 !s110 1604331327
+!i10b 1
+!s100 24iGTXR]WFWGA[7@Q?6CH0
+IY>8W1gZU_c]HMzNZzhUC51
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1603717891
+8C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/sequence_detector_fsm.v
+FC:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/sequence_detector_fsm.v
+L0 21
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1604331327.000000
+!s107 C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/sequence_detector_fsm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector|C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/sequence_detector_fsm.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector}
+Z5 tCvgOpt 0
+vSequence_Detector_tb_Vector
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+!i10b 1
+!s100 Sddn[[ijZ<9k37JLNTfah2
+I5S>RZfO:zm?lzQg0DB4VY2
+R2
+!s105 Sequence_Detector_tb_Vector_sv_unit
+S1
+R0
+w1602404096
+8C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/Sequence_Detector_tb_Vector.sv
+FC:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/Sequence_Detector_tb_Vector.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/Sequence_Detector_tb_Vector.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector|C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector/Sequence_Detector_tb_Vector.sv|
+!i113 1
+o-sv -work work
+!s92 -sv -work work {+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/Sequence_Detector}
+R5
+n@sequence_@detector_tb_@vector

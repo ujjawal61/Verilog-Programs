@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ujjawal Aggarwal/Desktop/mux_8_to_1/mux_8_to_1/simulation/qsim
+vhard_block
+Z1 !s110 1603469796
+!i10b 1
+!s100 MPVVfZlEzW^C:^2IjeJ?41
+IN3a0R1;Zf36acVVTQi5WL1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1603469795
+Z4 8mux_8_to_1.vo
+Z5 Fmux_8_to_1.vo
+L0 228
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1603469796.000000
+Z8 !s107 mux_8_to_1.vo|
+Z9 !s90 -work|work|mux_8_to_1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vmux_4_to_1
+R1
+!i10b 1
+!s100 P]6=Q]^99<CM:za<`5@oj3
+I_gG7YkJifQ=`:;D=[@J?E1
+R2
+R0
+R3
+R4
+R5
+Z12 L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux_8_to_1_bdf
+!s110 1603469176
+!i10b 1
+!s100 e:i@QXKJWbF[PoLmY>N@e1
+Ig=??K8c0a57o1]NWaBfgf0
+R2
+R0
+w1603469176
+R4
+R5
+R12
+R6
+r1
+!s85 0
+31
+!s108 1603469176.000000
+R8
+R9
+!i113 1
+R10
+R11
+vmux_8_to_1_bdf_vlg_vec_tst
+!s110 1603469177
+!i10b 1
+!s100 Sk7`2HX1oYdT^^14`eaID1
+IWFKcMM?HAm5zmOL50W:CB1
+R2
+R0
+w1603469175
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+!s108 1603469177.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11

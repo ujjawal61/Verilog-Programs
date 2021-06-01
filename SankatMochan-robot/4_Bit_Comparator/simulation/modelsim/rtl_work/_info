@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/simulation/modelsim
+vComparator_4_bit_tb_Vector
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1604331258
+!i10b 1
+!s100 =Wzb4^FhZ@Oc?^H_9Inii2
+IiYLXEM;@RaVe?=e2ASb_Y2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Comparator_4_bit_tb_Vector_sv_unit
+S1
+R0
+w1602340042
+8C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Comparator_4_bit_tb_Vector.sv
+FC:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Comparator_4_bit_tb_Vector.sv
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1604331258.000000
+!s107 C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Comparator_4_bit_tb_Vector.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator|C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Comparator_4_bit_tb_Vector.sv|
+!i113 1
+o-sv -work work
+!s92 -sv -work work {+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator}
+Z5 tCvgOpt 0
+n@comparator_4_bit_tb_@vector
+vFour_Bit_Comparator_verilog
+R1
+!i10b 1
+!s100 PnDkkT51f@@6c8c8l^6=b0
+IQn749]i1a0zheD:VQOJK?2
+R2
+R0
+w1603557322
+8C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Four_Bit_Comparator_verilog.v
+FC:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Four_Bit_Comparator_verilog.v
+L0 20
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Four_Bit_Comparator_verilog.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator|C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Four_Bit_Comparator_verilog.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work {+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator}
+R5
+n@four_@bit_@comparator_verilog
+vTwo_Bit_Comparator
+R1
+!i10b 1
+!s100 1fV8MAZ3Y1e6kV<>zkDAM1
+IMe?DWJ7R]F9CoPX8iI@7k0
+R2
+R0
+w1603557056
+8C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Two_Bit_Comparator.v
+FC:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Two_Bit_Comparator.v
+L0 21
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Two_Bit_Comparator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator|C:/Users/Ujjawal Aggarwal/Desktop/E-yantar/4_Bit_Comparator/Two_Bit_Comparator.v|
+!i113 1
+R6
+R7
+R5
+n@two_@bit_@comparator
